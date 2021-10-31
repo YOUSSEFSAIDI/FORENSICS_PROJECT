@@ -1,6 +1,5 @@
 # Forensics Project [F5]: Detection of suspicious behaviors from a pcap file
 
-# Writers: Youssef Saidi &&& Azmi Hamadi
 
 ## What this program provides
 
